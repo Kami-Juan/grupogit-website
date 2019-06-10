@@ -1,0 +1,24 @@
+<svg width="48px" height="41px" viewBox="1377 31 48 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 41.2 (35397) - http://www.bohemiancoding.com/sketch -->
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="0%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#1B4580" offset="0%"></stop>
+            <stop stop-color="#1688C9" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="0.0717302914%" y1="50%" x2="100%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#1688C9" offset="0.0239158163%"></stop>
+            <stop stop-color="#00A89C" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="3.061617e-15%" y1="50%" x2="100%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#00A89C" offset="0%"></stop>
+            <stop stop-color="#008040" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="ic_menu" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(1401.000000, 52.000000) scale(-1, 1) rotate(-180.000000) translate(-1401.000000, -52.000000) translate(1377.000000, 32.000000)">
+        <rect id="Rectangle-3" x="0" y="0" width="48" height="40"></rect>
+        <rect id="Rectangle-2-Copy-2" fill="url(#linearGradient-1)" x="0" y="27" width="48" height="6"></rect>
+        <rect id="Rectangle-2-Copy" fill="url(#linearGradient-2)" x="0" y="17" width="48" height="6"></rect>
+        <rect id="Rectangle-2" fill="url(#linearGradient-3)" x="0" y="7" width="48" height="6"></rect>
+    </g>
+</svg>
